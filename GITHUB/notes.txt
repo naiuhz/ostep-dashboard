@@ -1,2 +1,0 @@
-docker run --env GIT_TOKEN='f3bc0cf2efd129ba93a47474c01257b93451080c' .
-
